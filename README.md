@@ -1,4 +1,4 @@
-# stout_case_study
+# Stout Case Study
 This repository contains both case studies for the Digital &amp; Data Analytics Application Process.
 
 Here is the URL to the HTML Website displaying all visualizations.
